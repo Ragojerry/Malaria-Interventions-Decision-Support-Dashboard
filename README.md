@@ -3,7 +3,6 @@
 A web-based a decision-support dashboard using Power BI to enable subnational tailoring of malaria interventions.
 The tool supports Case Management, ITN, SMC, IPTp, and PMC coverage analysis performing automated SITAN, displaying KPI results, generating suggested actions based on performance gaps, and guiding target setting.
 Most importantly, the recommended actions are directly aligned with national strategic intervention frameworks ensuring that state and LGA planning is evidence-based and policy-consistent.
-This shifted implementation from reporting numbers to actively guiding operational decisions.
 
 ## Features
 1. Situation Analysis
@@ -15,10 +14,12 @@ This shifted implementation from reporting numbers to actively guiding operation
 - SMC Campaign
 - ITN campaign
 - IPTp analysis
+- PMC (routine)
+- IPTp (routine)
 - Malaria Vaccination 
 
 
-![PBI](https://img.shields.io/badge/PBI-1.3-blue)
+![Version](https://img.shields.io/badge/Version-1.3-blue)
 ![PBI](https://img.shields.io/badge/PBI-App-green)
 
   ## DASHBOARD_SCREENSHOOT
@@ -32,5 +33,7 @@ This shifted implementation from reporting numbers to actively guiding operation
 ![Dashboard](Screens/SMC.png)
    # PMC, IPTp, Malaria Vaccine
 ![Dashboard](Screens/KPIs.png)
+# Suggested Actions
+![Dashboard](Screens/SA.png)
 
 
