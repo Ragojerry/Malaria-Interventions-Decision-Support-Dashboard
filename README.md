@@ -22,4 +22,4 @@ This shifted implementation from reporting numbers to actively guiding operation
 ![Shiny](https://img.shields.io/badge/Shiny-App-green)
 
   ## DASHBOARD_SCREENSHOOT
-![Dashboard](Screenshots/Dashboard.png)
+![Dashboard](Screens/LGA_Profile.png)
