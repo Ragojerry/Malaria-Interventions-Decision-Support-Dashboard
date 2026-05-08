@@ -18,8 +18,19 @@ This shifted implementation from reporting numbers to actively guiding operation
 - Malaria Vaccination 
 
 
-![R](https://img.shields.io/badge/R-1.3-blue)
-![Shiny](https://img.shields.io/badge/Shiny-App-green)
+![PBI](https://img.shields.io/badge/PBI-1.3-blue)
+![PBI](https://img.shields.io/badge/PBI-App-green)
 
   ## DASHBOARD_SCREENSHOOT
+  # LGA Profile Dashboard
 ![Dashboard](Screens/LGA_Profile.png)
+   # Case Management
+![Dashboard](Screens/CaseMgt.png)
+   # ITN Campaign
+![Dashboard](Screens/ITN.png)
+   # SMC Campaign
+![Dashboard](Screens/SMC.png)
+   # PMC, IPTp, Malaria Vaccine
+![Dashboard](Screens/KPIs.png)
+
+
